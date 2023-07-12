@@ -2,9 +2,8 @@
 
 <br>
 
-<p align="center">
-  <img alt="Projeto1" src=".github/preview.jpg"width="100%">
-</p>
+![preview](https://github.com/jonatanfiuza/projeto1/assets/135143732/bc7baa1b-d967-469b-a0d5-02cbb2207863)
+
 
 ## 🚀 Tecnologias
 
